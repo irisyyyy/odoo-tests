@@ -1,0 +1,1 @@
+from . import test_appointment, test_doctor, test_patient
